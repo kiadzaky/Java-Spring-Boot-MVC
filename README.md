@@ -5,3 +5,6 @@ open link "http://localhost:3000/"
  
  untuk index.html ada yg berbeda pada a href, kemungkinan error karena thymeleaf menggunakan versi baru
  
+ untuk repo selanjutnya
+ https://github.com/kiadzaky/maybank-springboot-mvc
+ 
